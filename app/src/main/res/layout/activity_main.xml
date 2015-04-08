@@ -1,0 +1,23 @@
+
+<activity.ds.qianfeng.com.touchdemo.Layout_1 xmlns:android="http://schemas.android.com/apk/res/android"
+                                   xmlns:tools="http://schemas.android.com/tools"
+                                   android:layout_width="match_parent"
+                                   android:layout_height="match_parent"
+                                   android:background="#0ff"
+                                  >
+
+    <activity.ds.qianfeng.com.touchdemo.Layout_2
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#f00"
+
+        >
+        <activity.ds.qianfeng.com.touchdemo.Layout_3
+            android:layout_width="50dp"
+            android:background="#00f"
+            android:layout_height="50dp"
+            >
+
+            </activity.ds.qianfeng.com.touchdemo.Layout_3>
+    </activity.ds.qianfeng.com.touchdemo.Layout_2>
+</activity.ds.qianfeng.com.touchdemo.Layout_1>
